@@ -21,7 +21,7 @@ export function HowItWorksSection() {
     <section className="py-20 md:py-32" id="how-it-works">
       <div className="container mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center max-w-3xl mx-auto">
-          <h2 className="text-3xl md:text-5xl font-black tracking-tighter text-white [background:linear-gradient(to_bottom_right,white,rgb(203_213_225),rgb(148_163_184))] [-webkit-background-clip:text] [background-clip:text] [-webkit-text-fill-color:transparent] text-balance">
+          <h2 className="text-3xl md:text-5xl font-black tracking-tighter text-white text-balance">
             Get started in seconds
           </h2>
           <p className="mt-4 text-lg text-slate-400 text-pretty">
